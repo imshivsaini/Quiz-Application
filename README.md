@@ -52,9 +52,3 @@ Fetches the session stats including individual question results.
 - Questions are pre-seeded in the database.
 - No authentication/authorization is implemented.
 - H2 database is used for simplicity.
-
-### Cloning the Repository
-
-1. Clone this repository to your local machine using:
-   ```bash
-   git clone https://github.com/yourusername/quiz-application.git
